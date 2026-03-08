@@ -11,7 +11,7 @@
  ```Brach
 
    # 下载源码
-   git clone https://github.com/openwrt-fork/openwrt-gecoosac package/openwrt-gecoosac
+   git clone https://github.com/kiss19776/openwrt-gecoosac package/openwrt-gecoosac
    make menuconfig
 
  ```
