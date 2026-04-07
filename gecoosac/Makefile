@@ -14,8 +14,8 @@ else ifeq ($(ARCH),mips)
   PKG_ARCH:=ac_linux_mips_upx
   PKG_HASH:=1bae6c82eb8273b2e3b10b845d2c00fc4b4e82a36b04412280c429a1f526aa7e
 else ifeq ($(ARCH),mipsel)
-  PKG_ARCH:=ac_linux_mipsle_upx
-  PKG_HASH:=07d486be3ae1a58f0de1ad91f18469d0a7d40efad53dcbd4b282c1d3b813d9e5
+  PKG_ARCH:=ac_linux_mipsle
+  PKG_HASH:=ddd30214e07080d8329ab0226d596a7a648c5cff409209ec8256ee2761d60ccb
 else ifeq ($(ARCH),i386)
   PKG_ARCH:=ac_linux_386_upx
   PKG_HASH:=3d8ce710280224a5f6fb206c81f97b63eb915d5e3142bbafbb0170e651512be8
